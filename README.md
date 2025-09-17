@@ -47,6 +47,9 @@ Each assignment is contained within its own scene file:
 
 🚧 **Active Development** - New assignment scenes will be added throughout the course duration.
 
+### Assignments
+![](https://github.com/Nesstark/med5_VR_assignments/blob/main/Documentation/Media/HandAnimations.gif)
+
 ## Testing Instructions
 
 1. **Desktop Testing**: Most scenes can be tested in Unity's Play Mode using mouse/keyboard controls
