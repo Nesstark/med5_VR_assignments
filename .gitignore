@@ -147,3 +147,6 @@ Temporary Items
 *.swo
 .idea/
 *.orig
+
+# Ignore crash file
+mono_crash.0.0.json
