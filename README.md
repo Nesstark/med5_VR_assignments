@@ -51,6 +51,7 @@ Each assignment is contained within its own scene file:
 #### Hand Animations
 The very first assignment where we learned about tracking hands and where you're looking inside the "play" mode on Unity.
 As well as some hand animations for, pinching, pointing and making a fist.
+
 ![](https://github.com/Nesstark/med5_VR_assignments/blob/main/Documentation/Media/HandAnimations.gif)
 
 ## Testing Instructions
