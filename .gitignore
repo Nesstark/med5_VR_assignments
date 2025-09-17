@@ -2,6 +2,8 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+
+# Unity generated files
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
@@ -73,3 +75,75 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# ===== ADDITIONAL CUSTOM ENTRIES =====
+
+# VR-specific files
+# Oculus/Meta Quest files
+/[Aa]ssets/Oculus/SampleFramework/
+/[Aa]ssets/Oculus/VR/
+*.ovrmeta
+# OpenXR cache
+/XR/
+/OpenXR/
+# SteamVR files
+/[Aa]ssets/SteamVR/
+*.vrmanifest
+# General VR temp files
+vr_*.log
+*.xrsettings
+
+# Additional Build files
+# Windows builds
+*.exe
+*.msi
+*.zip
+# macOS builds
+*.dmg
+*.pkg
+# Linux builds
+*.deb
+*.rpm
+*.tar.gz
+# Mobile builds
+*.ipa
+*.aab
+# WebGL builds
+/WebGL/
+/webgl/
+
+# macOS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.AppleDouble
+.LSOverride
+# Icon must end with two \r
+Icon
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# VSCode files
+.vscode/
+*.code-workspace
+# VSCode settings you might want to keep (uncomment if needed)
+# !.vscode/settings.json
+# !.vscode/tasks.json
+# !.vscode/launch.json
+# !.vscode/extensions.json
+
+# Additional common unwanted files
+*~
+*.swp
+*.swo
+.idea/
+*.orig
