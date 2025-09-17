@@ -6,10 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/HandAnimations.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 92921b4eb78ba4be69ffa348771102f9, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7791e4c600abd406ba6eed474f8d574b, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 60910fb1a5e98457faa614270840f84d, type: 2}
   m_UseUCBPForAssetBundles: 0
