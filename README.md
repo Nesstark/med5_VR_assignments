@@ -17,14 +17,14 @@ Each assignment will be organized in its own folder or branch, containing:
 ## Getting Started
 
 ### Prerequisites
-- Unity 2022.3 LTS or later
+- Unity 6000.0.57f1 LTS
 - Git for version control
-- VR headset (if applicable for VR assignments)
+- VR headset
 
 ### Setup
 1. Clone this repository
-2. Open individual assignment folders in Unity Hub
-3. Each project folder contains its own Unity project structure
+2. Open individual assignment scenes
+3. Each assignment will have its own scene
 
 ### Usage
 Navigate to specific assignment folders to explore individual projects. Each assignment may have its own README with specific setup instructions and learning objectives.
