@@ -56,18 +56,18 @@ As well as some hand animations for, pinching, pointing and making a fist.
 
 ## Testing Instructions
 
-## VR Setup
+### VR Setup
 - Connect your **Meta Quest headset** to your PC using either:
   - **Link Cable**, or
   - **Air Link**
 - Make sure **Meta Link** is properly configured and the headset is recognized by your system.
 
-## Play Mode Testing
-- Open your Unity project.
+### Play Mode Testing
+- Open whatever scene you want in the Unity project.
 - Press **Play** inside the Editor.
 - The active scene will automatically appear in your headset.
 
-## Build Testing
+### Build Testing
 - Some assignments may require creating a **standalone build** for the target platform.
 - Run the standalone build on your PC with the headset connected for full VR functionality.
 
