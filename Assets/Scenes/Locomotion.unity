@@ -2766,6 +2766,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1492007958}
     m_Modifications:
+    - target: {fileID: 2818971628382573792, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
+      propertyPath: m_MatchOrientation
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3449784919008568370, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
       propertyPath: m_Name
       value: Teleport Anchor (7)
@@ -13467,6 +13471,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1492007958}
     m_Modifications:
+    - target: {fileID: 2818971628382573792, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
+      propertyPath: m_MatchOrientation
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3449784919008568370, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
       propertyPath: m_Name
       value: Teleport Anchor (5)
@@ -13632,6 +13640,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1492007958}
     m_Modifications:
+    - target: {fileID: 2818971628382573792, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
+      propertyPath: m_MatchOrientation
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3449784919008568370, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
       propertyPath: m_Name
       value: Teleport Anchor (4)
@@ -46333,6 +46345,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1492007958}
     m_Modifications:
+    - target: {fileID: 2818971628382573792, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
+      propertyPath: m_MatchOrientation
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3449784919008568370, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
       propertyPath: m_Name
       value: Teleport Anchor (2)
@@ -70728,6 +70744,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1492007958}
     m_Modifications:
+    - target: {fileID: 2818971628382573792, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
+      propertyPath: m_MatchOrientation
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3449784919008568370, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
       propertyPath: m_Name
       value: Teleport Anchor (3)
@@ -74793,6 +74813,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1492007958}
     m_Modifications:
+    - target: {fileID: 2818971628382573792, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
+      propertyPath: m_MatchOrientation
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3449784919008568370, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
       propertyPath: m_Name
       value: Teleport Anchor
@@ -75538,6 +75562,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1492007958}
     m_Modifications:
+    - target: {fileID: 2818971628382573792, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
+      propertyPath: m_MatchOrientation
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3449784919008568370, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
       propertyPath: m_Name
       value: Teleport Anchor (1)
@@ -79223,6 +79251,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1492007958}
     m_Modifications:
+    - target: {fileID: 2818971628382573792, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
+      propertyPath: m_MatchOrientation
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3449784919008568370, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
       propertyPath: m_Name
       value: Teleport Anchor (8)
@@ -79499,6 +79531,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1492007958}
     m_Modifications:
+    - target: {fileID: 2818971628382573792, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
+      propertyPath: m_MatchOrientation
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3449784919008568370, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
       propertyPath: m_Name
       value: Teleport Anchor (6)
